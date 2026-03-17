@@ -1,0 +1,6 @@
+numbers.append(50)
+numbers.insert(1,35)
+numbers.remove(30)
+numbers.pop()
+numbers.sort()
+numbers,reverse()
